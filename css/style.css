@@ -4,3 +4,8 @@ body{
 .daily{
     background-image: url("../images/accient.jpg");
 }
+.vission{
+   text-align: left; 
+   float: right;
+
+}
